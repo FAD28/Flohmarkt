@@ -1,4 +1,5 @@
-import os, sys
+import os
+import sys
 import urllib
 import openpyxl
 import urllib.request
